@@ -1,0 +1,6 @@
+[submodule "WSUCentipede"]
+	path = WSUCentipede
+	url = https://github.com/erikbuck/WSUCentipede
+[submodule "MazeVenture"]
+	path = MazeVenture
+	url = https://github.com/erikbuck/MazeVenture.git
