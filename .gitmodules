@@ -17,3 +17,12 @@
 [submodule "makeitwright19-meta-project"]
 	path = makeitwright19-meta-project
 	url = https://github.com/mkijowski/makeitwright19-meta-project
+[submodule "geoposts"]
+	path = geoposts
+	url = https://github.com/realandrew/geoposts
+[submodule "Cruz_Wibowo"]
+	path = Cruz_Wibowo
+	url = https://github.com/Weebs2019/Cruz_Wibowo
+[submodule "adams_langenkamp_sullivan"]
+	path = adams_langenkamp_sullivan
+	url = https://github.com/thomaslangenkamp/adams_langenkamp_sullivan
