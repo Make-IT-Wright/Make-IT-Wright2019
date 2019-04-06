@@ -4,3 +4,6 @@
 [submodule "MazeVenture"]
 	path = MazeVenture
 	url = https://github.com/erikbuck/MazeVenture.git
+[submodule "Project-Hurricane"]
+	path = Project-Hurricane
+	url = https://github.com/RyanQashSyah/Project-Hurricane
