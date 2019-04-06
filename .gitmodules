@@ -10,3 +10,6 @@
 [submodule "CS1181_Project_3_FlahertyWilliam"]
 	path = CS1181_Project_3_FlahertyWilliam
 	url = https://github.com/wpflaherty/CS1181_Project_3_FlahertyWilliam
+[submodule "EilermanOConnorSlater"]
+	path = EilermanOConnorSlater
+	url = https://github.com/tux2603/EilermanOConnorSlater
