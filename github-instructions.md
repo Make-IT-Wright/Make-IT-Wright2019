@@ -14,7 +14,8 @@ Useful links:
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
   by Chris Beams.
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis)
-* We recommend using visual studio code or git bash
+* [Visual Studio Code(has pretty good git integration)](https://code.visualstudio.com/)
+* [Git install links (includes git bash)](https://git-scm.com/downloads)
 
 Finally, don't be shy!  Myself and others might have a simple fix for any
 conflicts you create while working on this hackathon.  Use the slack help
