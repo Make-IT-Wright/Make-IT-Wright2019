@@ -26,3 +26,15 @@
 [submodule "adams_langenkamp_sullivan"]
 	path = adams_langenkamp_sullivan
 	url = https://github.com/thomaslangenkamp/adams_langenkamp_sullivan
+[submodule "mineclearancechallenge"]
+	path = mineclearancechallenge
+	url = https://github.com/arjunsekar1991/mineclearancechallenge
+[submodule "Project-GreenThumb"]
+	path = Project-GreenThumb
+	url = https://github.com/RyanQashSyah/Project-GreenThumb
+[submodule "QuestCalculator"]
+	path = QuestCalculator
+	url = https://github.com/AlexanderGroeger/QuestCalculator
+[submodule "webScrape"]
+	path = webScrape
+	url = https://github.com/domidanke/webScrape
