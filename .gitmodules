@@ -14,3 +14,6 @@
 	path = EilermanOConnorSlater
 	url = https://github.com/tux2603/EilermanOConnorSlater
 
+[submodule "makeitwright19-meta-project"]
+	path = makeitwright19-meta-project
+	url = https://github.com/mkijowski/makeitwright19-meta-project
