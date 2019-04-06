@@ -7,3 +7,6 @@
 [submodule "Project-Hurricane"]
 	path = Project-Hurricane
 	url = https://github.com/RyanQashSyah/Project-Hurricane
+[submodule "CS1181_Project_3_FlahertyWilliam"]
+	path = CS1181_Project_3_FlahertyWilliam
+	url = https://github.com/wpflaherty/CS1181_Project_3_FlahertyWilliam
