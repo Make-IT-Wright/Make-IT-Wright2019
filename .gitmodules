@@ -41,3 +41,6 @@
 [submodule "LizARd"]
 	path = LizARd
 	url = https://github.com/erkarogers/LizARd
+[submodule "LizARdV2.0"]
+	path = LizARdV2.0
+	url = https://github.com/Pattonsguy/LizARdV2.0
