@@ -38,3 +38,6 @@
 [submodule "webScrape"]
 	path = webScrape
 	url = https://github.com/domidanke/webScrape
+[submodule "LizARd"]
+	path = LizARd
+	url = https://github.com/erkarogers/LizARd
